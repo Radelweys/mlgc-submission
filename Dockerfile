@@ -10,6 +10,6 @@ COPY . .
 
 ENV PORT=8080
 
-ENV MODEL_URL='https://storage.googleapis.com/ramadan-submission-01/model.json'
+ENV MODEL_URL='https://storage.googleapis.com/ramadan-submission-430/model.json'
 
 CMD ["npm", "start"]
